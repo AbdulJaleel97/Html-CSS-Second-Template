@@ -386,7 +386,7 @@ header img {
 /* Start Design  */
 .design {
     height: 600px;
-    background-image: url(../images/Design.jpg);
+    background-image: url(../images/design.jpg);
     background-size: cover;
     margin-bottom: var(--section-padding);
 }
