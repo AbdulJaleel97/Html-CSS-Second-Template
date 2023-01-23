@@ -370,7 +370,6 @@ border-color: var(--mainColor);
     line-height: 2;
     color: var(--heading-color);
 }
-
 /* End Services */
 /* Start Design  */
 .design {
@@ -694,8 +693,6 @@ border-color: var(--mainColor);
     }
 }
 
-
-
 .stats .container .box i {
     width: 50px;
     height: 50px;
@@ -706,7 +703,6 @@ border-color: var(--mainColor);
     border-radius: 50%;
     margin: 20px auto 30px;
     transition: var(--main-transition);
-
 }
 
 .stats .container .box i:hover {
@@ -796,8 +792,6 @@ border-color: var(--mainColor);
     color: var(--heading-color);
     margin-bottom: 70px;
 }
-
-
 
 .testi-bullets ul {
     display: flex;
@@ -1065,7 +1059,6 @@ border-color: var(--mainColor);
     }
 }
 
-
 .subscripe p {
     margin-left: 40px;
     text-align: center;
@@ -1189,7 +1182,6 @@ border-color: var(--mainColor);
     background-image: url("../images/subscripe.jpg");
     background-size: cover;
     color: var(--text-color);
-
 }
 
 .footer .footer-overlay {
