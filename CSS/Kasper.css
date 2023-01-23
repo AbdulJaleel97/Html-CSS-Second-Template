@@ -265,6 +265,7 @@ header img {
         max-width: 100%;
     }
 }
+
 .landing i:hover {
     color: var(--mainColor);
 }
@@ -318,9 +319,10 @@ header img {
     margin-right: 10px;
 }
 
-.landing .bullets .active,  .landing .bullets li:hover{
-background-color: var(--mainColor);
-border-color: var(--mainColor);
+.landing .bullets .active,
+.landing .bullets li:hover {
+    background-color: var(--mainColor);
+    border-color: var(--mainColor);
 }
 
 /* End Landing */
@@ -370,6 +372,7 @@ border-color: var(--mainColor);
     line-height: 2;
     color: var(--heading-color);
 }
+
 /* End Services */
 /* Start Design  */
 .design {
@@ -455,7 +458,6 @@ border-color: var(--mainColor);
 }
 
 .toggle ul li {
-
     font-size: 20px;
     padding: 15px;
     margin-right: 5px;
@@ -707,8 +709,6 @@ border-color: var(--mainColor);
 
 .stats .container .box i:hover {
     transform: scale(1.1);
-
-    background-color: #33154a;
 }
 
 .stats .container .box p {
@@ -1059,6 +1059,7 @@ border-color: var(--mainColor);
     }
 }
 
+
 .subscripe p {
     margin-left: 40px;
     text-align: center;
@@ -1182,6 +1183,7 @@ border-color: var(--mainColor);
     background-image: url("../images/subscripe.jpg");
     background-size: cover;
     color: var(--text-color);
+
 }
 
 .footer .footer-overlay {
@@ -1214,7 +1216,7 @@ border-color: var(--mainColor);
 
 .footer .container i {
     padding: 12px;
-    font-size: 14px;
+    font-size: 16px;
     margin-bottom: 40px;
     transition: var(--main-transition);
 }
